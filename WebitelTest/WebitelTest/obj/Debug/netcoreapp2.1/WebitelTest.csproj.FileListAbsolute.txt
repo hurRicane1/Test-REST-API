@@ -1,0 +1,14 @@
+G:\Webitel Test\New folder\WebitelTest\WebitelTest\bin\Debug\netcoreapp2.1\WebitelTest.deps.json
+G:\Webitel Test\New folder\WebitelTest\WebitelTest\bin\Debug\netcoreapp2.1\WebitelTest.runtimeconfig.json
+G:\Webitel Test\New folder\WebitelTest\WebitelTest\bin\Debug\netcoreapp2.1\WebitelTest.runtimeconfig.dev.json
+G:\Webitel Test\New folder\WebitelTest\WebitelTest\bin\Debug\netcoreapp2.1\WebitelTest.dll
+G:\Webitel Test\New folder\WebitelTest\WebitelTest\obj\Debug\netcoreapp2.1\WebitelTest.csproj.CoreCompileInputs.cache
+G:\Webitel Test\New folder\WebitelTest\WebitelTest\obj\Debug\netcoreapp2.1\WebitelTest.RazorAssemblyInfo.cache
+G:\Webitel Test\New folder\WebitelTest\WebitelTest\obj\Debug\netcoreapp2.1\WebitelTest.RazorAssemblyInfo.cs
+G:\Webitel Test\New folder\WebitelTest\WebitelTest\obj\Debug\netcoreapp2.1\WebitelTest.AssemblyInfoInputs.cache
+G:\Webitel Test\New folder\WebitelTest\WebitelTest\obj\Debug\netcoreapp2.1\WebitelTest.AssemblyInfo.cs
+G:\Webitel Test\New folder\WebitelTest\WebitelTest\obj\Debug\netcoreapp2.1\WebitelTest.RazorTargetAssemblyInfo.cache
+G:\Webitel Test\New folder\WebitelTest\WebitelTest\bin\Debug\netcoreapp2.1\WebitelTest.pdb
+G:\Webitel Test\New folder\WebitelTest\WebitelTest\obj\Debug\netcoreapp2.1\WebitelTest.dll
+G:\Webitel Test\New folder\WebitelTest\WebitelTest\obj\Debug\netcoreapp2.1\WebitelTest.pdb
+G:\Webitel Test\New folder\WebitelTest\WebitelTest\obj\Debug\netcoreapp2.1\WebitelTest.csprojAssemblyReference.cache
